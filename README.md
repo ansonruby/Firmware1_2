@@ -1,6 +1,6 @@
-# Firmware1_1
+# Firmware1_2
 # Madre : Copia Firmware0
-# Para  : IF
+# Para  : Puma
 # 
 # Generador de pines
 # Comunicacion entre dispositivos
